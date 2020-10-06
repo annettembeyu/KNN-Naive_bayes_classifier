@@ -4,13 +4,13 @@
 My project will entail perfoming the K Nearest Neighbours(KNN) and the Naive Bayes Classifier(each model will be on a separate notebook) on two different datasets which can be downloaded from the following links:
 
 Dataset 1 Source: ~Train Dataset Source: [Link](https://archive.org/download/train5_202002/train%20%285%29.csv)
-                  ~Test Dataset Source: [Link](https://archive.org/download/test1_202002/test%20%281%29.csv)]
+                  ~Test Dataset Source: [Link](https://archive.org/download/test1_202002/test%20%281%29.csv)
                   
- Dataset 2 Source: ~[Link](https://archive.ics.uci.edu/ml/datasets/Spambase)]
+ Dataset 2 Source: ~[Link](https://archive.ics.uci.edu/ml/datasets/Spambase)
 
 ## Experimental Procedure
 
-- Randomly partition each dataset into two parts i.e 80 - 20  sets.
+- Randomly partition each dataset into two parts *i.e 80 - 20*  sets.
 
 - Dataset 1 does not have the label for the test set, I will use the train set to create train and test data (i.e. splitting further), then proceed to perform K-nearest neighbor classification.
 
@@ -20,7 +20,7 @@ Dataset 1 Source: ~Train Dataset Source: [Link](https://archive.org/download/tra
 
 - Report the confusion matrix of each classifier.
 
-- I will then repeat the above four steps each time splitting the datasets differently i.e. 70-30, 60-40 and copare the outcomes.
+- I will then repeat the above four steps each time splitting the datasets differently *i.e. 70-30, 60-40* and copare the outcomes.
 
 - Suggest and apply at least one of the optimization techniques for the models.
 
