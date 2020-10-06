@@ -6,7 +6,7 @@ My project will entail perfoming the K Nearest Neighbours(KNN) and the Naive Bay
 Dataset 1 Source: ~Train Dataset Source: [Link](https://archive.org/download/train5_202002/train%20%285%29.csv)
                   ~Test Dataset Source: [Link](https://archive.org/download/test1_202002/test%20%281%29.csv)]
                   
- Dataset 2 Source: ~[Link](https://archive.ics.uci.edu/ml/datasets/Spambase]
+ Dataset 2 Source: ~[Link](https://archive.ics.uci.edu/ml/datasets/Spambase)]
 
 ## Experimental Procedure
 
